@@ -1,6 +1,4 @@
 import { useState, useEffect, useRef } from "react";
-import "@fontsource/ibm-plex-mono";
-import "@fontsource/ibm-plex-sans";
 
 const MOTION_TOKENS = {
   durationCalm: 0,
