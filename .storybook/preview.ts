@@ -1,4 +1,6 @@
 import type { Preview } from "@storybook/react";
+import "@fontsource/ibm-plex-mono";
+import "@fontsource/ibm-plex-sans";
 
 const preview: Preview = {
   parameters: {
