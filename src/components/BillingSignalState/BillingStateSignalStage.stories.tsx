@@ -25,7 +25,6 @@ All tokens are WCAG AA verified on \`#16181d\`.
       },
     },
   },
-  tags: ["autodocs"],
 };
 
 export default meta;
